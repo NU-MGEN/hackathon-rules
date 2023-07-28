@@ -6,10 +6,13 @@
 
 ## The spirit of the competition
 
+
 Remember that hackathons are like marathons. Some people go to compete but most people take part to better themselves and have fun. Whatever the reason is you're at a hackathon, make sure you're upholding the [hacker spirit](https://medium.com/@tfogo/the-spirit-of-hackathons-a0d81a65060a#.6cx5ac9t8) by collaborating with other teams, helping beginners, and having fun.
 
 
 ## The rules of the competition
+
+Note -For 2023 the theme is Generative AI You are free to use any libraries and Generative AI APIs
 
 1. Max 5 Members per team.
 2. Teams should be made up exclusively of MGEN students who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event.
